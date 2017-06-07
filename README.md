@@ -30,7 +30,7 @@ After multiple attempts of trial and error, the following gains were found to su
 * Integral Gain - t_Ki = 0
 * Derivative Gain - t_Kd = 0
 
-The syntax to run the program is as follows:
+The command to run the program is as follows:
 
 `./pid <s_Kp> <s_Ki> <s_Kd> <t_Kp> <t_Ki> <t_Kd>`
 
