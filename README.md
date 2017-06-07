@@ -21,14 +21,14 @@ The PID parameters were tuned manually by entering arguments at the command line
 After multiple attempts of trial and error, the following gains were found to successfully control the vehicle with a maximum throttle value of 40%.
 
 ### Steering PID
-* Proportional Gain Value - s_Kp = 0.1
-* Integral Gain Value - s_Ki = 0.0005
-* Derivative Gain Value - s_Kd = 0.5
+* Proportional Gain - s_Kp = 0.1
+* Integral Gain - s_Ki = 0.0005
+* Derivative Gain - s_Kd = 0.5
 
 ### Throttle PID
-* Proportional Gain Value - t_Kp = 0.3
-* Integral Gain Value - t_Ki = 0
-* Derivative Gain Value - t_Kd = 0
+* Proportional Gain - t_Kp = 0.3
+* Integral Gain - t_Ki = 0
+* Derivative Gain - t_Kd = 0
 
 The syntax to run the program is as follows:
 
